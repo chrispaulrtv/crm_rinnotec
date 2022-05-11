@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Christian",
+      "empresa": "RinnoTec",
+      "email": "creinoso7982@gmail.com",
+      "telefono": "0992878918",
+      "notas": "ingreso de nuevo cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "paulina@contacto.com",
+      "telefono": "0992878918",
+      "notas": "es de la constructora",
+      "id": 3
+    },
+    {
+      "nombre": "Wendy",
+      "empresa": "ChrisPaulRTV",
+      "email": "chrispaulartist@gmail.com",
+      "telefono": "0992878918",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Maylee",
+      "empresa": "Mayleeisabel",
+      "email": "chrispaulartist@gmail.com",
+      "telefono": "0992878918",
+      "notas": "empresa familiar",
+      "id": 5
+    }
+  ]
+}
