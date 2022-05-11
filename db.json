@@ -3,8 +3,8 @@
     {
       "nombre": "Christian",
       "empresa": "RinnoTec",
-      "email": "creinoso7982@gmail.com",
-      "telefono": "0992878918",
+      "email": "contacto@contaco.com",
+      "telefono": "1234567891",
       "notas": "ingreso de nuevo cliente",
       "id": 1
     },
@@ -12,23 +12,23 @@
       "nombre": "Paulina",
       "empresa": "Paulina Construcciones",
       "email": "paulina@contacto.com",
-      "telefono": "0992878918",
+      "telefono": "0987654321",
       "notas": "es de la constructora",
       "id": 3
     },
     {
       "nombre": "Wendy",
       "empresa": "ChrisPaulRTV",
-      "email": "chrispaulartist@gmail.com",
-      "telefono": "0992878918",
+      "email": "contacto@contaco.com",
+      "telefono": "1234567890",
       "notas": "",
       "id": 4
     },
     {
-      "nombre": "Maylee",
-      "empresa": "Mayleeisabel",
-      "email": "chrispaulartist@gmail.com",
-      "telefono": "0992878918",
+      "nombre": "Mayemi",
+      "empresa": "Empresota",
+      "email": "prueba@prueba.com",
+      "telefono": "0992876473",
       "notas": "empresa familiar",
       "id": 5
     }
